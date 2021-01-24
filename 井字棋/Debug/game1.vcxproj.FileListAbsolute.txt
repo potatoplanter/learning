@@ -1,0 +1,2 @@
+D:\game1\Debug\game1.exe
+D:\game1\Debug\game1.pdb
